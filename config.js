@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Tim Schütz | Website',
-  subtitle: 'Cultural Anthropologist | University of California Irvine',
+  title: 'Tim Schütz',
+  subtitle: 'University of California Irvine',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -38,8 +38,8 @@ module.exports = {
   ],
   author: {
     name: 'Tim Schütz',
-    photo: '/photo.jpg',
-    bio: 'Cultural Anthropology PhD, University of California Irvine',
+    photo: 'https://avatars0.githubusercontent.com/u/38264390?s=460&u=9e6ca75f0d19a8f218e18e268311f4bbed734aee&v=4',
+    bio: 'Cultural Anthropology PhD University of California Irvine',
     contacts: {
       email: 'tschuetz@uci.edu',
       facebook: '',
