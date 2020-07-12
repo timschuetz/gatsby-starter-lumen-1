@@ -2,7 +2,7 @@
 template: page
 title: Publications
 slug: publications
-draft: true
+draft: false
 ---
 ### Peer-Reviewed Journal Articles
 
