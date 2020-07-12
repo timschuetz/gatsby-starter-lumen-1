@@ -42,8 +42,8 @@ module.exports = {
     bio: 'Cultural Anthropology PhD, University of California Irvine',
     contacts: {
       email: 'tschuetz@uci.edu',
-      facebook: '#',
-      telegram: '#',
+      facebook: '',
+      telegram: '',
       twitter: 'tmschtz',
       github: 'timschuetz',
       rss: '',
