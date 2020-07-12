@@ -1,11 +1,11 @@
 ---
 template: page
-title: About me
+title: About
 socialImage: /media/image-2.jpg
-slug: about-me
-draft: true
+slug: about
+draft: false
 ---
-**I am a graduate student in Cultural Anthropology at the University of California Irvine. d**
+**I am a graduate student in Cultural Anthropology at the University of California Irvine.**
 
 My research focuses on civic data infrastructures, archiving and environmental advocacy in response to “the Anthropocene” broadly conceived.
 
