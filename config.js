@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Tim Schütz',
+    name: '/photo.jpg',
     photo: '/photo.jpg',
     bio: 'Cultural Anthropologist',
     contacts: {
