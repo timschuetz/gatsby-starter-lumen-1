@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Tim Schütz | Website',
+  subtitle: 'Cultural Anthropologist | University of California Irvine',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,12 +27,12 @@ module.exports = {
   author: {
     name: 'Tim Schütz',
     photo: '/photo.jpg',
-    bio: 'Cultural Anthropologist',
+    bio: 'Cultural Anthropology PhD, University of California Irvine',
     contacts: {
-      email: '',
+      email: 'tschuetz@uci.edu',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
+      twitter: '@tschuetz',
       github: '#',
       rss: '',
       vkontakte: '',
