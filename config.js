@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'News',
       path: '/'
     },
     {
@@ -20,12 +20,12 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Publications',
+      path: '/pages/publications'
     }
   ],
   author: {
-    name: '/photo.jpg',
+    name: 'Tim Schütz',
     photo: '/photo.jpg',
     bio: 'Cultural Anthropologist',
     contacts: {
