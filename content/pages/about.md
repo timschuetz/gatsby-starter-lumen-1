@@ -5,7 +5,7 @@ socialImage: /media/image-2.jpg
 slug: about-me
 draft: true
 ---
-**I am a graduate student in Cultural Anthropology at the University of California Irvine.**
+**I am a graduate student in Cultural Anthropology at the University of California Irvine. d**
 
 My research focuses on civic data infrastructures, archiving and environmental advocacy in response to “the Anthropocene” broadly conceived.
 
