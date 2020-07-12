@@ -12,17 +12,29 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'News',
+      label: 'Research updates',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
+    },
+      {
+      label: 'Projects',
+      path: '/pages/projects'
     },
     {
       label: 'Publications',
       path: '/pages/publications'
-    }
+    },
+     {
+      label: 'Talks',
+      path: '/pages/talks'
+    },
+      {
+      label: 'Visual',
+      path: '/pages/visual'
+    },
   ],
   author: {
     name: 'Tim Schütz',
