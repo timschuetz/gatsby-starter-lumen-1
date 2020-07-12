@@ -1,38 +1,26 @@
 ---
 template: post
-slug: perfecting-the-art-of-perfection
+slug: asylum-for-sale-preorder
 draft: false
 socialImage: /media/image-2.jpg
-title: Yes yes yo
-date: 2016-09-01T23:46:37.121Z
+title: "Preorder: Asylum for Sale"
+date: 2020-07-12T22:19:10.234Z
 description: Yo
 category: Design Inspiration
 tags:
   - Handwriting
   - Learning to write
 ---
-Peer-Reviewed Journal Articles
-2017 with Sebastian Kubitschko. Humanitarian media interventions: doing infrastructures in times of forced migration. Spheres Journal for Digital Cultures #3.
+> Asylum for Sale: Profit and Protest in the Migration Industry explores how immigrants' pathways to refuge are increasingly shaped by neoliberal capitalism. The volume features activists, academics, artists, journalists and writers with firsthand experience of asylum processes and has been hailed by Naomi Klein as "an unparalleled resource". Accessible and engaging, Asylum for Sale is a must-read for anyone interested in current immigration issues.
 
-Book Chapters
-forthcoming. Archiving for the Anthropocene: Notes from the Field Campus. Dear Anthropocene Exhibition Catalogue. Ilmin Museum for Art, Seoul.
 
-2020 with Monic Meisel. Free Wireless Network Activism and the Industrialized Media Infrastructures of Forced Migration. In: McGuirk, Siobhán & Pine, Adrienne (eds.) Asylum for Sale: Profit, and Protest in the Migration Industry. Oakland: PM Press.
 
-2019. Humanitäre Medieninterventionen. Digitale Infrastruktur in Unterkünften für Geflüchtete. In: Kaufmann, Nimführ, Otto & Schütte (eds.) Forschen und Arbeiten im Kontext von Flucht. Reflexionslücken, Repräsentations- und Ethikfragen. VS Springer.
+I'm very excited about this “explosive new volume” to come out in August. [Monic Meisel](https://de.linkedin.com/in/monicmeisel) (co-founder of Freifunk Berlin) and I wrote a chapter addressing the significance of Internet access in refugee camps in Germany. We're focusing particularly on how commercial Internet and mobile service providers currently profit from lack of access -- and how community networks like Freifunk can offer solutions.
 
-Bachelor’s Thesis
-2017 Humanitarian Modulations: Doing ‚Free‘ (Media and Communication) Infrastructures in Times of Forced Migration. BA Thesis, University of Bremen. Open Access.
+You can use discount codes **ASYLUM20** for 20% or **ASYLUM40** for 40% off on your pre-order [here]([www.pmpress.org/asylum](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.pmpress.org%2Fasylum%3Ffbclid%3DIwAR0W6Fe2iES9lkFuQZH7_o7v25PieUkDTpI85-NI3KXJ0MQrHVEmO24l0jw&h=AT1d9v5q4KA9a6wRTb5Zv0rOi_N-kVejsQpX9q3eaIGcF4Znc4vlGJ40-JTZsY_jG6FoYMcRs00hWgbmNtm-23q3yzfHX98L4HECxykbeMiUc_j1vu-3fvuGNZN1lyeIl9in73h70HELa2M6V2bNERaN2T5lkTAOQFvEU-Ii82j77Yd50cUaz_rs0tTsg8BpQtqNQ1aiL8QNqdXsr0YIuMf-cUeS-CoUvn4Ymw8RBWzpJE4z3c9VuZ_mhHOjBKdZ32giNAgNxZPjKv-iM_GBKjKHwkQn5y4Ag4PdN5vCXCuvOwA0Y7E6bweYfp0DacDaxkJvQcKQFrBq5VeV8nL4Yw4IFyyjQzkAq8v_tBzjTpnkbs8iY34ui3LsWk7x-0aLR3hSH39zanhFdJ2_f-qhbNiS4xGhUQ3I_hF_EbYgQFVCHjRovS71mlOkHNX3EB8xrWeCzbSRGUF3LSH9VtHt_LwvzikdtiwlCMrZf0X3oTpopp-LJdp3JJBavZ-pWvGJc4Qraya1ETY2ykti6r5Lkg9SvwBjD5_TvsuZkdJGw-ei2LfHIhnpZg)).
 
-Blogs and reports
+Pre-ordering directly supports PM Press, an independent publisher based in Oakland, California that -- despite the COVID-19 lockdown --  committed to a full color, high quality and yet affordable publication.
 
-2019. Archiving for the Anthropocene: Notes from the Field Campus. Platypus. October 29, 2019.
+If you want to review the book (or know someone who might be interested), send me an email (tschuetz@ucil.edu) and I will get you in touch with the editors. 
 
-2019 with Jason Ludwig, Scott Knowles, and Kim Fortun. Tactics for Quotidian Anthropocenes: A Field Campus Report. Anthropocene Curriculum. Berlin: Haus der Kulturen der Welt.
-
-2018 Still “in its infancy”? Afterthoughts on the relevance of STS anchors in Germany. EASST Review Volume 37(4).
-
-2018 with Monic Meisel. Country Report Germany. From the shelter to the classroom: Two Case Studies Of Civic Participation Through Freifunk Berlin. Global Information Society Watch Yearbook. APC Press.
-
-Interviews
-2017 Vorstellung der PreisträgerInnen des DARIAH DH-Award 2017: Tim Schütz. DHd Blog.
+![](/media/ebxqw3wwsaa_r2g.jpeg)
