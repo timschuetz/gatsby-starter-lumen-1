@@ -19,21 +19,25 @@ module.exports = {
       label: 'About',
       path: '/pages/about'
     },
-      {
-      label: 'Projects',
-      path: '/pages/projects'
-    },
-    {
+       {
       label: 'Publications',
       path: '/pages/publications'
     },
-     {
+         {
       label: 'Talks',
       path: '/pages/talks'
     },
       {
+      label: 'Projects',
+      path: '/pages/projects'
+    },
+      {
       label: 'Visual',
       path: '/pages/visual'
+    },
+          {
+      label: 'CV',
+      path: 'https://docs.google.com/document/d/1cB_fzmLU4AtteqhoB834D7yMMubeG8otdFlkXjGMGj4/edit'
     },
   ],
   author: {
@@ -49,7 +53,7 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: 'https://www.linkedin.com/in/tim-sch%C3%BCtz-0b6924127',
-      instagram: '',
+      instagram: 'environmental_injustice',
       line: '',
       gitlab: '',
       weibo: '',
