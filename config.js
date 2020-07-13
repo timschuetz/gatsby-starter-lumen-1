@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Tim Schütz',
   subtitle: 'University of California Irvine',
-  copyright: '© All rights reserved.',
+  copyright: '© CC-BY-SA 4.0',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -37,14 +37,13 @@ module.exports = {
     },
           {
       label: 'CV',
-      path: 'https://docs.google.com/document/d/1cB_fzmLU4AtteqhoB834D7yMMubeG8otdFlkXjGMGj4/edit'
+      path: '/cv-ts-july2020.pdf'
     },
   ],
   author: {
     name: 'Tim Schütz',
     photo: 'https://avatars0.githubusercontent.com/u/38264390?s=460&u=9e6ca75f0d19a8f218e18e268311f4bbed734aee&v=4',
-    bio: 'Cultural Anthropology'
-    'PhD University of California Irvine',
+    bio: 'PhD Cultural Anthropology, University of California Irvine',
     contacts: {
       email: 'tschuetz@uci.edu',
       facebook: '',
