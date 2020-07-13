@@ -6,9 +6,11 @@ draft: false
 ---
 ### Upcoming
 
-Civic Data for the Anthropocene: Visualizing Taiwan's Formosa Plastics. 4S/EASST Conference. August 2020.
+“Following Taiwan’s Formosa Plastics.” International Taiwan Studies Conference, University of California Irvine.
 
-Installation Ethnography: Curation, Aesthetics, Experiments. 4S/EASST Conference. August 2020 (with James Adams).
+"Civic Data for the Anthropocene: Visualizing Taiwan's Formosa Plastics." 4S/EASST Conference. August 2020.
+
+"Installation Ethnography: Curation, Aesthetics, Experiments." 4S/EASST Conference. August 2020 (with James Adams).
 
 ### Past
 
