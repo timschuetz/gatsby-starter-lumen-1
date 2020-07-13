@@ -59,7 +59,7 @@ module.exports = {
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'https://www.youtube.com/channel/UChrP4TsIxDhYXt-VRxb5Itg',
       soundcloud: '',
     }
   }
