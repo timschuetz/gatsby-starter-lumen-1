@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Research updates',
+      label: 'News',
       path: '/'
     },
     {
