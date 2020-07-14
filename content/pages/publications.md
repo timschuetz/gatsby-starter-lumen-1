@@ -4,11 +4,7 @@ title: Publications
 slug: publications
 draft: false
 ---
-### Journal Articles (peer-reviewed)
-
-Kubitschko, Sebastian and Tim Schütz. 2017. Humanitarian media interventions: doing infrastructures in times of forced migration. Spheres Journal for Digital Cultures #3. ([link](https://spheres-journal.org/contribution/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/))
-
-### Book Chapters
+### Peer-Reviewed Articles & Book Chapters
 
 Schütz, Tim. (forthcoming). Archiving for the Anthropocene: Notes from the Field Campus. *Dear Anthropocene Exhibition Catalogue*. Ilmin Museum for Art, Seoul.
 
@@ -16,7 +12,9 @@ Schütz, Tim and Monic Meisel. (2020). Free Wireless Network Activism and the In
 
 Schütz, Tim. (2019). Humanitäre Medieninterventionen. Digitale Infrastruktur in Unterkünften für Geflüchtete. In: Kaufmann, Nimführ, Otto & Schütte (eds.) *Forschen und Arbeiten im Kontext von Flucht. Reflexionslücken, Repräsentations- und Ethikfragen*. VS Springer. ([link](https://www.springer.com/de/book/9783658283797#aboutBook))
 
-### Blogs, Reports, etc.
+Kubitschko, Sebastian and Tim Schütz. 2017. Humanitarian media interventions: doing infrastructures in times of forced migration. Spheres Journal for Digital Cultures #3. ([link](https://spheres-journal.org/contribution/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/))
+
+### Blogs & Reports
 
 Schütz, Tim. (2019). Archiving for the Anthropocene: Notes from the Field Campus. *Platypus*. October 29, 2019. ([link](http://blog.castac.org/2019/10/archiving-for-the-anthropocene-notes-from-the-field-campus/?fbclid=IwAR1GrKndGBMAFlnxyf_00WLlp6UlR7C75oZfxBdGMA7r4JucU9k-occwE1I))
 
