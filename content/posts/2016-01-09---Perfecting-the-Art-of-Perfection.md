@@ -6,7 +6,7 @@ socialImage: /media/image-2.jpg
 title: "Preorder: Asylum for Sale"
 date: 2020-07-12T22:19:10.234Z
 description: A critical take on the global asylum regime and those who profit
-category: New Publication
+category: Publication
 tags:
   - Civic Infrastructure
   - Data
