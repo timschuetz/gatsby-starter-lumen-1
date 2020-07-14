@@ -5,7 +5,7 @@ slug: pece-research-update-june-2020
 draft: false
 date: 2020-07-14T06:45:36.448Z
 description: The latest round-up of PECE updates for June 2020.
-category: PECE Research Update
+category: PECE
 tags:
   - PECE
   - Research Update
