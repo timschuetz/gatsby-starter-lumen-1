@@ -3,9 +3,9 @@ template: post
 slug: asylum-for-sale-preorder
 draft: false
 socialImage: /media/image-2.jpg
-title: "Preorder: Asylum for Sale"
+title: Asylum for Sale
 date: 2020-07-12T22:19:10.234Z
-description: A critical take on the global asylum regime and those who profit
+description: Now available for pre-order. Release in August 2020. Click to read more.
 category: Publication
 tags:
   - Civic Infrastructure
