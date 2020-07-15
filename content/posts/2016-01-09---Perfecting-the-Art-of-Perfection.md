@@ -14,8 +14,6 @@ tags:
 ---
 ![](/media/large_1097_asylum_for_sale.jpg)
 
-
-
 I'm very excited for **Asylum For Sale: Profit and Protest in the Migration Industry** to come out in August 2020. 
 
 [Monic Meisel](https://de.linkedin.com/in/monicmeisel) (co-founder of Freifunk Berlin) and I wrote a chapter about Internet access for refugees and asylum seekers in Germany. We're focusing particularly on how commercial Internet and mobile service providers currently profit from lack of access -- and how community networks like Freifunk can offer potential solutions.
@@ -25,9 +23,5 @@ You can use discount codes **ASYLUM20** for 20% or **ASYLUM40** for 40% off on y
 Pre-ordering directly supports PM Press, the independent publisher based in Oakland, California that -- despite the COVID-19 lockdown --  committed to a full color, high quality but still affordable publication.
 
 If you want to review the book (or know someone who might be interested), send me an email at [tschuetz@ucil.edu](mailto:tschuetz@uci.edu).
-
-Here's the full promo blurb:
-
-> Asylum for Sale: Profit and Protest in the Migration Industry explores how immigrants' pathways to refuge are increasingly shaped by neoliberal capitalism. The volume features activists, academics, artists, journalists and writers with firsthand experience of asylum processes and has been hailed by Naomi Klein as "an unparalleled resource". Accessible and engaging, Asylum for Sale is a must-read for anyone interested in current immigration issues.
 
 ![](/media/ebxqw3wwsaa_r2g.jpeg)
