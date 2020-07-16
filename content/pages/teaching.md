@@ -6,4 +6,4 @@ draft: false
 ---
 ## Environmental Injustice
 
-tbd
+tbd yes yes yes
