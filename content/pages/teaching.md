@@ -2,7 +2,7 @@
 template: page
 title: Teaching
 slug: teaching
-draft: true
+draft: false
 ---
 ## Environmental Injustice
 
