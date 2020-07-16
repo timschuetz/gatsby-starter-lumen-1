@@ -32,7 +32,7 @@ module.exports = {
       path: '/pages/projects'
     },
      {
-      label: 'Teaching',
+      label: 'Teaching!',
       path: '/pages/teaching'
     },
       {
