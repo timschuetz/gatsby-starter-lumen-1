@@ -31,6 +31,10 @@ module.exports = {
       label: 'Projects',
       path: '/pages/projects'
     },
+     {
+      label: 'Teaching',
+      path: '/pages/teaching'
+    },
       {
       label: 'Visual',
       path: '/pages/visual'
