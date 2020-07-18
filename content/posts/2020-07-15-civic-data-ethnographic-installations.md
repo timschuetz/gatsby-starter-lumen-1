@@ -12,7 +12,9 @@ tags:
   - 4S
   - EASST
 ---
-I'll be giving two virtual presentatios at the upcoming [4S/EASST Conference](https://www.easst4s2020prague.org/) (August 18–21), originally scheduled to be held in Prague. You can find both abstracts below.
+I'll be giving two virtual presentatios at the upcoming [4S/EASST Conference](https://www.easst4s2020prague.org/) (August 18–21), originally scheduled to be held in Prague. The first focuses on my current research on the Taiwanese plastics company Formosa. The second is a co-presentation with James Adams (UC Irvine) about the projects Visualizing Toxic Subjects/Places.
+
+You can find abstracts for both presentations below.
 
 #### **Civic Data for the Anthropocene: Visualizing Taiwan’s Formosa Plastics**
 
@@ -22,7 +24,7 @@ Panel: "Holding It Together? Data And Disasters" organized by Louise Elstow and 
 
 *In all three cases here, civic data work has been a key tactic in responding to petrochemical disasters, fast and slow (Nixon 2011; Knowles 2019). Activists in these three cases also recognize the need to build infrastructures for connecting their sites and cases. In this presentation, I will draw on interviews with activists US and Taiwan to begin imagining what civic data practices and infrastructure are needed to support response to Formosa going forward. Members of the audience will be asked to help sketch this out, helping move the “informating of environmentalism” (Fortun 2004) forward, tuned to the Anthropocene. The Formosa project extends from and contributes to two collaborative projects, one focused on knowledge infrastructures for Quotidian Anthropocenes and another focused on Visualizing Toxic Places.*
 
-Installation Ethnography: Curation, Aesthetics, Experiments
+#### Installation Ethnography: Curation, Aesthetics, Experiments
 
 Co-presentation with James Adams (UC Irvine)
 
