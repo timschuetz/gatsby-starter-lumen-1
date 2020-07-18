@@ -13,7 +13,9 @@ tags:
   - Data
   - Migration Studies
 ---
-![](/media/large_1097_asylum_for_sale.jpg)
+
+
+![](/media/ebxqw3wwsaa_r2g.jpeg)
 
 I'm very excited for **Asylum For Sale: Profit and Protest in the Migration Industry** to come out in August 2020. 
 
@@ -25,4 +27,6 @@ Pre-ordering directly supports PM Press, the independent publisher based in Oakl
 
 If you want to review the book (or know someone who might be interested), send me an email at [tschuetz@ucil.edu](mailto:tschuetz@uci.edu).
 
-![](/media/ebxqw3wwsaa_r2g.jpeg)
+Full cover:
+
+![](/media/large_1097_asylum_for_sale.jpg)
