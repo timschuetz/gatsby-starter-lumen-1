@@ -6,7 +6,7 @@ draft: false
 ---
 ### Upcoming
 
-“Following Taiwan’s Formosa Plastics.” International Taiwan Studies Conference, University of California Irvine.
+“Following Taiwan’s Formosa Plastics.” International Taiwan Studies Conference, University of California Irvine. Mai 2021.
 
 "Civic Data for the Anthropocene: Visualizing Taiwan's Formosa Plastics." 4S/EASST Conference. August 2020.
 
