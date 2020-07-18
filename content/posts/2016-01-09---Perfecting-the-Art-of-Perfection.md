@@ -1,11 +1,12 @@
 ---
 template: post
-title: Asylum for Sale
 slug: asylum-for-sale-preorder
 draft: false
 socialImage: /media/image-2.jpg
+title: "Asylum for Sale: Profit and Protest in the Asylum Industry"
 date: 2020-07-12T22:19:10.234Z
-description: Now available for pre-order. Release in August 2020.
+description: Now available for pre-order, shipping in August 2020. Click for
+  more info and discount codes.
 category: Publication
 tags:
   - Civic Infrastructure
