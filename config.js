@@ -32,7 +32,7 @@ module.exports = {
       path: '/pages/projects'
     },
      {
-      label: 'Teaching!',
+      label: 'Teaching',
       path: '/pages/teaching'
     },
       {
@@ -47,7 +47,7 @@ module.exports = {
   author: {
     name: 'Tim Schütz',
     photo: 'https://avatars0.githubusercontent.com/u/38264390?s=460&u=9e6ca75f0d19a8f218e18e268311f4bbed734aee&v=4',
-    bio: 'PhD Cultural Anthropology, University of California Irvine',
+    bio: 'PhD, Department of Anthropology, University of California Irvine',
     contacts: {
       email: 'tschuetz@uci.edu',
       facebook: '',
