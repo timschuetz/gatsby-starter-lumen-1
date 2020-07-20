@@ -14,6 +14,8 @@ draft: false
 
 ### Past
 
+![](/media/79759448_10215257363178660_3483825742481981440_o-1-.jpg)
+
 “Archiving for the Anthropocene” The International Symposium on Anthropocene Studies. Seoul, December 10-11, 2019
 
 “Mississippi River Anthropocenes: Running the River School.” Society for the Social Studies of Science (4S) New Orleans, September 4-7, 2019.
