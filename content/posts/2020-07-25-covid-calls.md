@@ -14,6 +14,9 @@ tags:
   - Podcast
   - Civic Data
 ---
+\
+Full recording: [https://youtu.be/_dScF36WiOQ](https://youtu.be/_dScF36WiOQ)
+
 COVID-Calls is a discussion of the COVID-19 pandemic with disaster experts held every weekday at 5pm EST, hosted by historian of disaster Scott Gabriel Knowles (Drexel University). See calls are archived on [YouTube](https://www.youtube.com/channel/UCgxa_-w98BhAIiwbw2dxKlQ/featured) and available as podcasts on [Soundcloud](https://soundcloud.com/scott-knowles-433708957).
 
 ![](/media/screen-shot-2020-07-24-at-9.04.36-pm.png)
