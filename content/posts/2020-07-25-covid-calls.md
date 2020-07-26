@@ -2,7 +2,7 @@
 template: post
 title: COVID Calls
 slug: covid-calls-recording
-draft: true
+draft: false
 date: 2020-07-25T04:01:18.451Z
 description: My first time on a podcast and fifteen minutes in, there's a
   complete Internet outage. Still a great episode!
