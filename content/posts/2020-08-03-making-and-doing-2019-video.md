@@ -2,7 +2,7 @@
 template: post
 title: Making and Doing 2019 Video
 slug: making-and-doing-2019
-draft: true
+draft: false
 date: 2020-08-03T21:20:43.809Z
 description: I made and did a short video about the exhibit.
 category: video, STS
